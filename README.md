@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaffetGokcenSen
 - 👀 I’m interested in causal learning, machine learning and full-stack development.
-- 💞️ I’m looking to collaborate on causal learning, machine learning and full-stack development.
+- 💞️ I can collaborate on causal learning, machine learning and full-stack development.
 - 📫 How to reach me saffetgokcen@gmail.com or saffetgokcensen@hotmail.com
 
 <!---
